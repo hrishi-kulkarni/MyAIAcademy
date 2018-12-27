@@ -1,0 +1,12 @@
+* Learn by doing...
+* Features of application building on top of aws:
+	- Sign Up - Authentication and authorization
+	- Images upload, storage, relational database
+	- Use of ML to get label for image
+
+* Why AWS?
+->	Build as you go.
+	Pay as much you use.
+	Nothing to worry about infrastructure.
+	Various services vary from blank server to ML architecture.
+	Always availablity.
